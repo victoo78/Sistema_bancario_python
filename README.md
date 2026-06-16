@@ -1,10 +1,10 @@
 # Sistema_bancario_python
 Este projeto faz parte do bootcamp da DIO (Digital Innovation One) e tem como objetivo criar um sistema bancário simples utilizando a linguagem Python, com foco em estrutura de dados, lógica de programação e boas práticas de codificação.
 
-🎯 Objetivo Geral
+ Objetivo Geral
 Desenvolver um sistema que simule operações bancárias básicas como depósito, saque e emissão de extrato, evoluindo para o suporte a múltiplos usuários e contas bancárias.
 
-✅ Versão Inicial:
+ Versão Inicial:
 Depósito de valores positivos.
 
 Saque com as seguintes regras:
@@ -19,14 +19,14 @@ Emissão de extrato com todos os depósitos e saques realizados.
 
 Mensagem informando ausência de movimentações, quando aplicável
 
-🛠️ Tecnologias Utilizadas
+ Tecnologias Utilizadas
 Linguagem: Python 3
 
 Estrutura de dados: dicionários e listas
 
 Formatação de strings e validação de entradas
 
-📚 Aprendizados
+ Aprendizados
 Com este projeto, foi possível aplicar na prática:
 
 A lógica de controle de fluxo com estruturas if, elif, else.
